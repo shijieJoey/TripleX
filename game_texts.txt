@@ -1,0 +1,29 @@
+
+--Game Intro Start
+You need to enter the correct codes to continue...
+--Game Intro End
+
+--Game Level Info Start
++ There are 3 numbers in the code.
+--Game Level Info End
+
+
+--Game Win Start
+You Win!
+--Game Win End
+
+--Game Win Play Again Start
+Hey, man! Now you've become a professional secret agent.
+Do you want to challenge another secure server room? (Press Y/y to play again or any other keys to quit)
+--Game Win Play Again End
+
+--Game Lose Start
+You triggered the alarm, and you were under arrest and killed finally.
+You Lose!
+--Game Lose End
+
+--Game Lose Play Again Start
+Yo, loser! You failed me!
+But I'm gonna show my mercy and give you one more chance.
+Are you brave enough to try again? (Press Y/y to play again or any other keys to quit)
+--Game Lose Play Again End
